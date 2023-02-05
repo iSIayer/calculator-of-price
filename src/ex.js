@@ -38,8 +38,3 @@ const data = {
     slug: 'backblaze.com',
   },
 };
-
-console.log(Object.keys(data));
-
-const rangeStorage = document.querySelector('#storage-range');
-const rangeTransfer = document.querySelector('#transfer-range');

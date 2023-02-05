@@ -1,4 +1,4 @@
-4710
+4711
 51C:\Users\gamer\Documents\calculator-of-price\assets133195598979372687 1
 76C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\runtime-js133194724939729867 1
 88C:\Users\gamer\Documents\calculator-of-price\node_modules\css-what\lib\commonjs\types.js121436361000000000 0
@@ -16,6 +16,17 @@
 80C:\Users\gamer\Documents\calculator-of-price\node_modules\term-size\vendor\macos133194724908930318 1
 83C:\Users\gamer\Documents\calculator-of-price\node_modules\@lezer\lr\dist\index.d.ts121436361000000000 0
 58C:\Users\gamer\Documents\calculator-of-price\.editorconfig133194717573734054 0
+96C:\Users\gamer\Documents\calculator-of-price\node_modules\@swc\helpers\src\_wrap_native_super.js132902623550000000 0
+98C:\Users\gamer\Documents\calculator-of-price\node_modules\utility-types\dist\aliases-and-guards.js121436361000000000 0
+54C:\Users\gamer\Documents\calculator-of-price\src\ex.js133200972231985541 0
+79C:\Users\gamer\Documents\calculator-of-price\node_modules\svgo\plugins\_path.js121436361000000000 0
+78C:\Users\gamer\Documents\calculator-of-price\node_modules\timsort\package.json133194724940380201 0
+96C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\packager-js\lib\DevPackager.js121436361000000000 0
+65C:\Users\gamer\Documents\calculator-of-price\node_modules\timsort133194724940530844 1
+134C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.win32-x64-msvc.node121436361000000000 0
+80C:\Users\gamer\Documents\calculator-of-price\node_modules\tslib\modules\index.js121436361000000000 0
+84C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\cache\lib\types.js121436361000000000 0
+89C:\Users\gamer\Documents\calculator-of-price\node_modules\css-select\lib\general.d.ts.map121436361000000000 0
 55C:\Users\gamer\Documents\calculator-of-price\.gitignore133194723133131362 0
 77C:\Users\gamer\Documents\calculator-of-price\node_modules\nth-check\README.md121436361000000000 0
 81C:\Users\gamer\Documents\calculator-of-price\node_modules\source-map\package.json133194724940380201 0
@@ -55,15 +66,11 @@
 133C:\Users\gamer\Documents\calculator-of-price\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\package.json133194724941249227 0
 122C:\Users\gamer\Documents\calculator-of-price\node_modules\@swc\helpers\src\_class_check_private_static_field_descriptor.js132952419800000000 0
 52C:\Users\gamer\Documents\calculator-of-price\.sassrc133194717573734054 0
-93C:\Users\gamer\Documents\calculator-of-price\node_modules\caniuse-lite\data\features\webgl.js121436361000000000 0
-66C:\Users\gamer\Documents\calculator-of-price\node_modules\css-tree133194724940530844 1
-75C:\Users\gamer\Documents\calculator-of-price\node_modules\readdirp\index.js121436361000000000 0
-86C:\Users\gamer\Documents\calculator-of-price\node_modules\posthtml-parser\changelog.md121436361000000000 0
 84C:\Users\gamer\Documents\calculator-of-price\node_modules\nth-check\lib\compile.d.ts121436361000000000 0
 86C:\Users\gamer\Documents\calculator-of-price\node_modules\domhandler\lib\node.d.ts.map121436361000000000 0
 67C:\Users\gamer\Documents\calculator-of-price\node_modules\is-number133194724941329367 1
 82C:\Users\gamer\Documents\calculator-of-price\node_modules\abortcontroller-polyfill133194724938929392 1
-49C:\Users\gamer\Documents\calculator-of-price\dist133200753042103175 1
+49C:\Users\gamer\Documents\calculator-of-price\dist133200982863217919 1
 96C:\Users\gamer\Documents\calculator-of-price\node_modules\terser\lib\utils\first_in_statement.js121436361000000000 0
 87C:\Users\gamer\Documents\calculator-of-price\node_modules\terser\lib\compress\inline.js121436361000000000 0
 101C:\Users\gamer\Documents\calculator-of-price\node_modules\parcel-reporter-clean-dist\dist\main.js.map121436361000000000 0
@@ -90,7 +97,7 @@
 97C:\Users\gamer\Documents\calculator-of-price\node_modules\css-tree\lib\definition-syntax\index.js121436361000000000 0
 89C:\Users\gamer\Documents\calculator-of-price\node_modules\nan\nan_implementation_12_inl.h121436361000000000 0
 80C:\Users\gamer\Documents\calculator-of-price\node_modules\svgo\lib\svgo\jsAPI.js121436361000000000 0
-54C:\Users\gamer\Documents\calculator-of-price\README.md133194723133131362 0
+54C:\Users\gamer\Documents\calculator-of-price\README.md133200927781390703 0
 84C:\Users\gamer\Documents\calculator-of-price\node_modules\tslib\modules\package.json121436361000000000 0
 113C:\Users\gamer\Documents\calculator-of-price\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\020-usage.md121436361000000000 0
 119C:\Users\gamer\Documents\calculator-of-price\node_modules\caniuse-lite\data\features\client-hints-dpr-width-viewport.js121436361000000000 0
@@ -106,7 +113,7 @@
 64C:\Users\gamer\Documents\calculator-of-price\node_modules\@lezer133194724934933811 1
 68C:\Users\gamer\Documents\calculator-of-price\node_modules\parse-json133194724940934198 1
 81C:\Users\gamer\Documents\calculator-of-price\node_modules\@nodelib\fs.scandir\out133194724912329805 1
-48C:\Users\gamer\Documents\calculator-of-price\src133200746228638707 1
+48C:\Users\gamer\Documents\calculator-of-price\src133200972077209117 1
 79C:\Users\gamer\Documents\calculator-of-price\node_modules\nan\doc\persistent.md121436361000000000 0
 94C:\Users\gamer\Documents\calculator-of-price\node_modules\cosmiconfig\dist\cacheWrapper.js.map121436361000000000 0
 52C:\Users\gamer\Documents\calculator-of-price\src\img133200746464157636 1
@@ -126,7 +133,7 @@
 59C:\Users\gamer\Documents\calculator-of-price\src\index.html133195656676960818 0
 84C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\graph\package.json133194724939649769 0
 90C:\Users\gamer\Documents\calculator-of-price\node_modules\@nodelib\fs.scandir\out\index.js121436361000000000 0
-57C:\Users\gamer\Documents\calculator-of-price\src\index.js133200745084075636 0
+57C:\Users\gamer\Documents\calculator-of-price\src\index.js133200972020788725 0
 137C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser\browser.js121436361000000000 0
 82C:\Users\gamer\Documents\calculator-of-price\node_modules\utility-types\SUPPORT.md121436361000000000 0
 57C:\Users\gamer\Documents\calculator-of-price\src\partials133194724372732381 1
@@ -146,13 +153,13 @@
 80C:\Users\gamer\Documents\calculator-of-price\node_modules\timsort\src\timsort.js131138581980000000 0
 127C:\Users\gamer\Documents\calculator-of-price\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV4\files\embed\embed2133194724919230369 1
 103C:\Users\gamer\Documents\calculator-of-price\node_modules\caniuse-lite\data\features\canvas-blending.js121436361000000000 0
-67C:\Users\gamer\Documents\calculator-of-price\src\sass\_example.scss133200753040742991 0
+67C:\Users\gamer\Documents\calculator-of-price\src\sass\_example.scss133200970334282833 0
 86C:\Users\gamer\Documents\calculator-of-price\node_modules\htmlnano\docs\versioned_docs133194724913632847 1
 93C:\Users\gamer\Documents\calculator-of-price\node_modules\mdn-data\css\properties.schema.json121436361000000000 0
 81C:\Users\gamer\Documents\calculator-of-price\node_modules\svgo\lib\stringifier.js121436361000000000 0
 105C:\Users\gamer\Documents\calculator-of-price\node_modules\caniuse-lite\data\features\css-width-stretch.js121436361000000000 0
 89C:\Users\gamer\Documents\calculator-of-price\node_modules\fast-glob\out\readers\sync.d.ts121436361000000000 0
-70C:\Users\gamer\Documents\calculator-of-price\src\partials\example.html133200744146900212 0
+70C:\Users\gamer\Documents\calculator-of-price\src\partials\example.html133200982859464036 0
 85C:\Users\gamer\Documents\calculator-of-price\node_modules\rangeslider.js\package.json133197542991411152 0
 137C:\Users\gamer\Documents\calculator-of-price\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV1\files\embed\embed2\file3.txt121436361000000000 0
 85C:\Users\gamer\Documents\calculator-of-price\node_modules\ordered-binary\package.json133194724941031739 0
@@ -298,6 +305,10 @@
 75C:\Users\gamer\Documents\calculator-of-price\node_modules\type-fest\license121436361000000000 0
 78C:\Users\gamer\Documents\calculator-of-price\node_modules\nan\nan_converters.h121436361000000000 0
 68C:\Users\gamer\Documents\calculator-of-price\node_modules\css-select133194724941249227 1
+93C:\Users\gamer\Documents\calculator-of-price\node_modules\caniuse-lite\data\features\webgl.js121436361000000000 0
+66C:\Users\gamer\Documents\calculator-of-price\node_modules\css-tree133194724940530844 1
+75C:\Users\gamer\Documents\calculator-of-price\node_modules\readdirp\index.js121436361000000000 0
+86C:\Users\gamer\Documents\calculator-of-price\node_modules\posthtml-parser\changelog.md121436361000000000 0
 94C:\Users\gamer\Documents\calculator-of-price\node_modules\utility-types\dist\mapped-types.d.ts121436361000000000 0
 72C:\Users\gamer\Documents\calculator-of-price\node_modules\yaml\types.mjs121436361000000000 0
 72C:\Users\gamer\Documents\calculator-of-price\node_modules\nan\doc\new.md121436361000000000 0
@@ -462,8 +473,8 @@
 84C:\Users\gamer\Documents\calculator-of-price\node_modules\parent-module\package.json133194724940830752 0
 108C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\runtime-js\lib\helpers\worker\js-loader.js121436361000000000 0
 63C:\Users\gamer\Documents\calculator-of-price\node_modules\json5133194724941329367 1
-80C:\Users\gamer\Documents\calculator-of-price\node_modules\color-convert\route.js121436361000000000 0
 74C:\Users\gamer\Documents\calculator-of-price\node_modules\svgo\lib\xast.js121436361000000000 0
+80C:\Users\gamer\Documents\calculator-of-price\node_modules\color-convert\route.js121436361000000000 0
 105C:\Users\gamer\Documents\calculator-of-price\node_modules\caniuse-lite\data\features\sharedarraybuffer.js121436361000000000 0
 77C:\Users\gamer\Documents\calculator-of-price\node_modules\braces\lib\parse.js121436361000000000 0
 105C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\resolver-default\src\DefaultResolver.js121436361000000000 0
@@ -567,7 +578,7 @@
 110C:\Users\gamer\Documents\calculator-of-price\node_modules\css-tree\lib\syntax\pseudo\common\nthWithOfClause.js121436361000000000 0
 89C:\Users\gamer\Documents\calculator-of-price\node_modules\caniuse-lite\data\regions\GN.js121436361000000000 0
 85C:\Users\gamer\Documents\calculator-of-price\node_modules\css-tree\lib\utils\clone.js121436361000000000 0
-71C:\Users\gamer\Documents\calculator-of-price\dist\index.975ef6c8.js.map133200749668416823 0
+71C:\Users\gamer\Documents\calculator-of-price\dist\index.975ef6c8.js.map133200972021712569 0
 86C:\Users\gamer\Documents\calculator-of-price\node_modules\svgo\plugins\cleanupAttrs.js121436361000000000 0
 89C:\Users\gamer\Documents\calculator-of-price\node_modules\caniuse-lite\data\regions\SB.js121436361000000000 0
 92C:\Users\gamer\Documents\calculator-of-price\node_modules\css-tree\lib\common\SyntaxError.js121436361000000000 0
@@ -675,16 +686,6 @@
 94C:\Users\gamer\Documents\calculator-of-price\node_modules\htmlnano\lib\modules\mergeScripts.js121436361000000000 0
 94C:\Users\gamer\Documents\calculator-of-price\node_modules\caniuse-lite\data\features\tls1-2.js121436361000000000 0
 97C:\Users\gamer\Documents\calculator-of-price\node_modules\terser\node_modules\commander\Readme.md121436361000000000 0
-96C:\Users\gamer\Documents\calculator-of-price\node_modules\@swc\helpers\src\_wrap_native_super.js132902623550000000 0
-98C:\Users\gamer\Documents\calculator-of-price\node_modules\utility-types\dist\aliases-and-guards.js121436361000000000 0
-79C:\Users\gamer\Documents\calculator-of-price\node_modules\svgo\plugins\_path.js121436361000000000 0
-78C:\Users\gamer\Documents\calculator-of-price\node_modules\timsort\package.json133194724940380201 0
-96C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\packager-js\lib\DevPackager.js121436361000000000 0
-65C:\Users\gamer\Documents\calculator-of-price\node_modules\timsort133194724940530844 1
-134C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.win32-x64-msvc.node121436361000000000 0
-80C:\Users\gamer\Documents\calculator-of-price\node_modules\tslib\modules\index.js121436361000000000 0
-84C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\cache\lib\types.js121436361000000000 0
-89C:\Users\gamer\Documents\calculator-of-price\node_modules\css-select\lib\general.d.ts.map121436361000000000 0
 79C:\Users\gamer\Documents\calculator-of-price\node_modules\yaml\browser\types.js121436361000000000 0
 72C:\Users\gamer\Documents\calculator-of-price\node_modules\to-regex-range133194724940530844 1
 76C:\Users\gamer\Documents\calculator-of-price\node_modules\dotenv\lib\main.js121436361000000000 0
@@ -695,7 +696,7 @@
 68C:\Users\gamer\Documents\calculator-of-price\node_modules\fclone\src133194724916462147 1
 86C:\Users\gamer\Documents\calculator-of-price\node_modules\ordered-binary\tests\test.js121436361000000000 0
 98C:\Users\gamer\Documents\calculator-of-price\node_modules\caniuse-lite\data\features\css-shapes.js121436361000000000 0
-60C:\Users\gamer\Documents\calculator-of-price\dist\index.html133200749668566828 0
+60C:\Users\gamer\Documents\calculator-of-price\dist\index.html133200982863207941 0
 98C:\Users\gamer\Documents\calculator-of-price\node_modules\type-fest\source\conditional-except.d.ts121436361000000000 0
 92C:\Users\gamer\Documents\calculator-of-price\node_modules\caniuse-lite\dist\lib\supported.js121436361000000000 0
 89C:\Users\gamer\Documents\calculator-of-price\node_modules\caniuse-lite\data\regions\VN.js121436361000000000 0
@@ -1147,7 +1148,6 @@
 78C:\Users\gamer\Documents\calculator-of-price\node_modules\tslib\tslib.es6.html121436361000000000 0
 68C:\Users\gamer\Documents\calculator-of-price\node_modules\sass\types133194724921031173 1
 103C:\Users\gamer\Documents\calculator-of-price\node_modules\caniuse-lite\data\features\element-closest.js121436361000000000 0
-80C:\Users\gamer\Documents\calculator-of-price\node_modules\msgpackr\node-index.js121436361000000000 0
 78C:\Users\gamer\Documents\calculator-of-price\node_modules\globals\package.json133194724939967924 0
 94C:\Users\gamer\Documents\calculator-of-price\node_modules\@jridgewell\gen-mapping\package.json133194724938779074 0
 107C:\Users\gamer\Documents\calculator-of-price\node_modules\caniuse-lite\data\features\once-event-listener.js121436361000000000 0
@@ -2030,6 +2030,7 @@
 79C:\Users\gamer\Documents\calculator-of-price\node_modules\msgpackr\iterators.js121436361000000000 0
 106C:\Users\gamer\Documents\calculator-of-price\node_modules\caniuse-lite\data\features\picture-in-picture.js121436361000000000 0
 74C:\Users\gamer\Documents\calculator-of-price\node_modules\msgpackr\LICENSE121436361000000000 0
+80C:\Users\gamer\Documents\calculator-of-price\node_modules\msgpackr\node-index.js121436361000000000 0
 70C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\core133194724939807296 1
 76C:\Users\gamer\Documents\calculator-of-price\node_modules\msgpackr\pack.d.ts121436361000000000 0
 74C:\Users\gamer\Documents\calculator-of-price\node_modules\msgpackr\pack.js121436361000000000 0
@@ -2507,8 +2508,8 @@
 99C:\Users\gamer\Documents\calculator-of-price\node_modules\css-tree\lib\syntax\node\AtrulePrelude.js121436361000000000 0
 76C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\source-map133194724939033671 1
 99C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\namer-default\src\DefaultNamer.js121436361000000000 0
-118C:\Users\gamer\Documents\calculator-of-price\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\060-contribute.md121436361000000000 0
 85C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\events\lib\types.js121436361000000000 0
+118C:\Users\gamer\Documents\calculator-of-price\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\060-contribute.md121436361000000000 0
 96C:\Users\gamer\Documents\calculator-of-price\node_modules\htmlnano\docs\docs\010-introduction.md121436361000000000 0
 107C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\source-map\parcel_sourcemap_node\build.rs121436361000000000 0
 89C:\Users\gamer\Documents\calculator-of-price\node_modules\htmlnano\docs\docs\020-usage.md121436361000000000 0
@@ -4466,7 +4467,7 @@
 94C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\core\lib\loadParcelPlugin.js121436361000000000 0
 92C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\core\lib\PackagerRunner.js121436361000000000 0
 84C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\core\lib\Parcel.js121436361000000000 0
-67C:\Users\gamer\Documents\calculator-of-price\dist\index.975ef6c8.js133200749668396854 0
+67C:\Users\gamer\Documents\calculator-of-price\dist\index.975ef6c8.js133200972021692475 0
 89C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\core\lib\projectPath.js121436361000000000 0
 81C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\core\lib\public133194724921031173 1
 92C:\Users\gamer\Documents\calculator-of-price\node_modules\@parcel\core\lib\ReporterRunner.js121436361000000000 0
@@ -4703,8 +4704,8 @@
 73C:\Users\gamer\Documents\calculator-of-price\node_modules\.bin\terser.ps1133194724942129963 0
 73C:\Users\gamer\Documents\calculator-of-price\dist\bunny-logo.0c06238e.png133200749666630678 0
 72C:\Users\gamer\Documents\calculator-of-price\dist\graph-bg.c0fef15e.webp133200749666420692 0
-68C:\Users\gamer\Documents\calculator-of-price\dist\index.b07a87f3.css133200753042093126 0
-72C:\Users\gamer\Documents\calculator-of-price\dist\index.b07a87f3.css.map133200753042093126 0
+68C:\Users\gamer\Documents\calculator-of-price\dist\index.b07a87f3.css133200970335519433 0
+72C:\Users\gamer\Documents\calculator-of-price\dist\index.b07a87f3.css.map133200970335519433 0
 79C:\Users\gamer\Documents\calculator-of-price\dist\Scaleway-company.267dcf06.png133200749666750697 0
 73C:\Users\gamer\Documents\calculator-of-price\dist\Vultr-logo.80a7e330.png133200749667721597 0
 62C:\Users\gamer\Documents\calculator-of-price\.github\workflows133194724372430606 1

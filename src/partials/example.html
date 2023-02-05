@@ -1,227 +1,216 @@
 <div class="container">
-      <div class="range-container">
-        <div class="range-container__col">
-          <h1 class="green-text">Compare how Scaleway is other providers</h1>
-          <h3 class="black-text">Pay-as-you-go Storage Cost Comparison</h3>
-          <div>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas
-              voluptates saepe aliquid laborum corrupti nulla quasi debitis
-              laudantium impedit repellendus facilis praesentium natus maiores
-              reprehenderit blanditiis et laboriosam, totam modi, dolorem
-              eligendi itaque molestiae aliquam culpa! Incidunt quibusdam
-              temporibus nobis, error repellendus eius esse, commodi,
-              consequuntur aperiam ullam fugiat corrupti. Molestiae amet iste
-              ab, consequuntur corrupti expedita blanditiis soluta molestias
-              omnis necessitatibus.
-            </p>
-          </div>
+  <div class="range-container">
+    <div class="range-container__col">
+      <h1 class="green-text">Compare how Scaleway is other providers</h1>
+      <h3 class="black-text">Pay-as-you-go Storage Cost Comparison</h3>
+      <div>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas
+          voluptates saepe aliquid laborum corrupti nulla quasi debitis
+          laudantium impedit repellendus facilis praesentium natus maiores
+          reprehenderit blanditiis et laboriosam, totam modi, dolorem eligendi
+          itaque molestiae aliquam culpa! Incidunt quibusdam temporibus nobis,
+          error repellendus eius esse, commodi, consequuntur aperiam ullam
+          fugiat corrupti. Molestiae amet iste ab, consequuntur corrupti
+          expedita blanditiis soluta molestias omnis necessitatibus.
+        </p>
+      </div>
 
-          <form id="price-calc" class="pricing-form" autocomplete="off">
-            <!-- =======================================Range Storage======================================== -->
-            <div class="pricing-form__item">
-              <label
-                for="storage-range"
-                aria-hidden="false"
-                class="pricing-form__label"
-                >Storage:
-                <span class="pricing-form__item--value"></span> Gb</label
-              >
+      <form id="price-calc" class="pricing-form" autocomplete="off">
+        <!-- =======================================Range Storage======================================== -->
+        <div class="pricing-form__item">
+          <label
+            for="storage-range"
+            aria-hidden="false"
+            class="pricing-form__label"
+            >Storage: <span class="pricing-form__item--value"></span> Gb</label
+          >
 
-              <div class="pricing-form__bar pricing-form__bar--storage">
-                <input
-                  aria-hidden="true"
-                  id="storage-range"
-                  class="pricing-form__range pricing-form__range--green js-storage-input range"
-                  type="range"
-                  min="0"
-                  max="1000"
-                  value="0"
-                  step="1"
-                />
-              </div>
-              <div class="pricing-form__output">
-                <input
-                  id="storage-input"
-                  min="0"
-                  max="1000"
-                  class="pricing-form__input"
-                  type="number"
-                  value="1000"
-                  step="1"
-                />
-              </div>
-            </div>
-            <!-- =======================================Range Transfer======================================== -->
-            <div class="pricing-form__item">
-              <label
-                for="transfer-range"
-                aria-hidden="true"
-                class="pricing-form__label"
-                >Transfer:
-                <span class="pricing-form__item--value"></span> Gb</label
-              >
-              <div class="pricing-form__bar pricing-form__bar--transfer">
-                <input
-                  aria-hidden="true"
-                  id="transfer-range"
-                  class="pricing-form__range pricing-form__range--blue js-transfer-input range"
-                  type="range"
-                  min="0"
-                  max="1000"
-                  value="0"
-                  step="1"
-                />
-              </div>
-              <div class="pricing-form__output">
-                <input
-                  id="transfer-input"
-                  min="0"
-                  max="1000"
-                  class="pricing-form__input js-transfer-input"
-                  type="number"
-                  value="1000"
-                  step="1"
-                />
-              </div>
-            </div>
-          </form>
-        </div>
-        <!-- ==========================container-graph========================== -->
-        <div class="range-container__col">
-          <div class="pricing-graph__header">
-            <img
-              class="pricing-graph__img"
-              src="./img/Scaleway-company.png"
-              alt="Scaleway logo"
+          <div class="pricing-form__bar pricing-form__bar--storage">
+            <input
+              aria-hidden="true"
+              id="storage-range"
+              class="pricing-form__range"
+              type="range"
+              min="0"
+              max="1000"
+              value="0"
+              step="1"
             />
           </div>
-
-          <div class="pricing-graph__results">
-            <h4 aria-label="Scaleway Monthly Price">
-              <span class="green-text js-price-month">$2,995</span>
-              <span class="green-text__span"> per month</span>
-            </h4>
-
-            <h4 aria-label="Scaleway Yearly Price">
-              <span class="green-text js-price-year">$35,940</span>
-              <span class="green-text__span"> per year</span>
-            </h4>
+          <div class="pricing-form__output">
+            <input
+              id="storage-input"
+              min="0"
+              max="1000"
+              class="pricing-form__input"
+              type="number"
+              value="1000"
+              step="1"
+            />
           </div>
-
-          <output
-            form="price-calc"
-            aria-label="Competitor Cost Comparison Bar Chart"
-            aria-describedby="graph-description"
-            class="pricing-graph"
-            role="status"
-            name="result"
+        </div>
+        <!-- =======================================Range Transfer======================================== -->
+        <div class="pricing-form__item">
+          <label
+            for="transfer-range"
+            aria-hidden="true"
+            class="pricing-form__label"
+            >Transfer: <span class="pricing-form__item--value"></span> Gb</label
           >
-            <span class="pricing-graph__bar">
-              <span
-                class="pricing-graph__tooltip"
-                aria-labelledby="scaleway-label"
-                ><span class="js-price-scaleway"
-                  ><span class="style-span">Scaleway</span>0 $</span
-                ></span
-              >
-              <span
-                class="pricing-graph__fill pricing-graph__fill--scaleway js-bar-scaleway"
-                style="height: 21.99741%"
-              ></span>
-            </span>
-
-            <span class="pricing-graph__bar">
-              <span class="pricing-graph__tooltip" aria-labelledby="bunny-label"
-                ><span class="js-price-bunny"
-                  ><span class="style-span">Bunny</span>0 $</span
-                ></span
-              >
-
-              <span
-                class="pricing-graph__fill pricing-graph__fill--bunny js-bar-bunny"
-                style="height: 33.9992%"
-              ></span>
-            </span>
-
-            <span class="pricing-graph__bar">
-              <span class="pricing-graph__tooltip" aria-labelledby="vultr-label"
-                ><span class="js-price-vultr"
-                  ><span class="style-span">Vultr</span>0 $</span
-                ></span
-              >
-              <span
-                class="pricing-graph__fill pricing-graph__fill--vultr js-bar-vultr"
-                style="height: 12.566%"
-              ></span>
-            </span>
-
-            <span class="pricing-graph__bar">
-              <span
-                class="pricing-graph__tooltip"
-                aria-labelledby="backblaze-label"
-                ><span class="js-price-backblaze"
-                  ><span class="style-span">Backblaze</span>0 $</span
-                ></span
-              >
-              <span
-                class="pricing-graph__fill pricing-graph__fill--backblaze js-bar-backblaze"
-                style="height: 16.048%"
-              ></span>
-            </span>
-          </output>
-
-          <div class="pricing-graph__logos">
-            <div class="pricing-graph__logo">
-              <img src="img/scaleway-logo.png" alt="Scaleway" />
-              <div class="pricing-graph__label" id="scaleway-label">
-                Scaleway
-              </div>
-              <div class="pricing-graph__logo--inp">
-                <input
-                  type="radio"
-                  name="plan"
-                  id="single"
-                  value="single"
-                  checked="true"
-                />
-                <label for="single" style="font-size: 12px">Single</label>
-
-                <input type="radio" name="plan" id="multi" value="multi" />
-                <label for="multi" style="font-size: 12px">Multi</label>
-              </div>
-            </div>
-
-            <div class="pricing-graph__logo">
-              <img src="img/bunny-logo.png" alt="Bunny" />
-              <div class="pricing-graph__label" id="bunny-label">Bunny</div>
-              <div class="pricing-graph__logo--inp">
-                <input
-                  type="radio"
-                  name="disk"
-                  id="hdd"
-                  value="hdd"
-                  checked="true"
-                />
-                <label for="hdd" style="font-size: 12px">HDD</label>
-
-                <input type="radio" name="disk" id="ssd" value="ssd" />
-                <label for="ssd" style="font-size: 12px">SSD</label>
-              </div>
-            </div>
-
-            <div class="pricing-graph__logo">
-              <img src="img/Vultr-logo.png" alt="Vultr" />
-              <div class="pricing-graph__label" id="vultr-label">Vultr</div>
-            </div>
-
-            <div class="pricing-graph__logo">
-              <img src="img/backblaze-logo.png" alt="Backblaze" />
-              <div class="pricing-graph__label" id="backblaze-label">
-                Backblaze
-              </div>
-            </div>
+          <div class="pricing-form__bar pricing-form__bar--transfer">
+            <input
+              aria-hidden="true"
+              id="transfer-range"
+              class="pricing-form__range"
+              type="range"
+              min="0"
+              max="1000"
+              value="0"
+              step="1"
+            />
           </div>
+          <div class="pricing-form__output">
+            <input
+              id="transfer-input"
+              min="0"
+              max="1000"
+              class="pricing-form__input js-transfer-input"
+              type="number"
+              value="1000"
+              step="1"
+            />
+          </div>
+        </div>
+      </form>
+    </div>
+    <!-- ==========================container-graph========================== -->
+    <div class="range-container__col">
+      <div class="pricing-graph__header">
+        <img
+          class="pricing-graph__img"
+          src="./img/Scaleway-company.png"
+          alt="Scaleway logo"
+        />
+      </div>
+
+      <div class="pricing-graph__results">
+        <h4 aria-label="Scaleway Monthly Price">
+          <span class="green-text js-price-month">$2,995</span>
+          <span class="green-text__span"> per month</span>
+        </h4>
+
+        <h4 aria-label="Scaleway Yearly Price">
+          <span class="green-text js-price-year">$35,940</span>
+          <span class="green-text__span"> per year</span>
+        </h4>
+      </div>
+
+      <output
+        form="price-calc"
+        aria-label="Competitor Cost Comparison Bar Chart"
+        aria-describedby="graph-description"
+        class="pricing-graph"
+        role="status"
+        name="result"
+      >
+        <span class="pricing-graph__bar">
+          <span class="pricing-graph__tooltip"
+            ><span class="js-price-scaleway"
+              ><span class="style-span">Scaleway</span>0 $</span
+            ></span
+          >
+          <span
+            class="pricing-graph__fill pricing-graph__fill--scaleway js-bar-scaleway"
+            style="height: 21.99741%"
+          ></span>
+        </span>
+
+        <span class="pricing-graph__bar">
+          <span class="pricing-graph__tooltip"
+            ><span class="js-price-bunny"
+              ><span class="style-span">Bunny</span>0 $</span
+            ></span
+          >
+
+          <span
+            class="pricing-graph__fill pricing-graph__fill--bunny js-bar-bunny"
+            style="height: 33.9992%"
+          ></span>
+        </span>
+
+        <span class="pricing-graph__bar">
+          <span class="pricing-graph__tooltip"
+            ><span class="js-price-vultr"
+              ><span class="style-span">Vultr</span>0 $</span
+            ></span
+          >
+          <span
+            class="pricing-graph__fill pricing-graph__fill--vultr js-bar-vultr"
+            style="height: 12.566%"
+          ></span>
+        </span>
+
+        <span class="pricing-graph__bar">
+          <span class="pricing-graph__tooltip"
+            ><span class="js-price-backblaze"
+              ><span class="style-span">Backblaze</span>0 $</span
+            ></span
+          >
+          <span
+            class="pricing-graph__fill pricing-graph__fill--backblaze js-bar-backblaze"
+            style="height: 16.048%"
+          ></span>
+        </span>
+      </output>
+
+      <div class="pricing-graph__logos">
+        <div class="pricing-graph__logo">
+          <img src="img/scaleway-logo.png" alt="Scaleway" />
+          <div class="pricing-graph__label" id="scaleway-label">Scaleway</div>
+          <div class="pricing-graph__logo--inp">
+            <input
+              type="radio"
+              name="plan"
+              id="single"
+              value="single"
+              checked="true"
+            />
+            <label for="single" style="font-size: 12px">Single</label>
+
+            <input type="radio" name="plan" id="multi" value="multi" />
+            <label for="multi" style="font-size: 12px">Multi</label>
+          </div>
+        </div>
+
+        <div class="pricing-graph__logo">
+          <img src="img/bunny-logo.png" alt="Bunny" />
+          <div class="pricing-graph__label" id="bunny-label">Bunny</div>
+          <div class="pricing-graph__logo--inp">
+            <input
+              type="radio"
+              name="disk"
+              id="hdd"
+              value="hdd"
+              checked="true"
+            />
+            <label for="hdd" style="font-size: 12px">HDD</label>
+
+            <input type="radio" name="disk" id="ssd" value="ssd" />
+            <label for="ssd" style="font-size: 12px">SSD</label>
+          </div>
+        </div>
+
+        <div class="pricing-graph__logo">
+          <img src="img/Vultr-logo.png" alt="Vultr" />
+          <div class="pricing-graph__label" id="vultr-label">Vultr</div>
+        </div>
+
+        <div class="pricing-graph__logo">
+          <img src="img/backblaze-logo.png" alt="Backblaze" />
+          <div class="pricing-graph__label" id="backblaze-label">Backblaze</div>
         </div>
       </div>
     </div>
+  </div>
+</div>
